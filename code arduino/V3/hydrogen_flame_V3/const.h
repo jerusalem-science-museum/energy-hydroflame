@@ -41,10 +41,10 @@ int32_t time_start = 0;
 int32_t time_start_hydro = 0;
 int32_t time_new_session = 0;
 
-const uint32_t ACTIVATION_TIME       = 15000; //time between end-new session (fan is active)
+const uint32_t ACTIVATION_TIME       = 20000; //time between end-new session (fan is active)
 const uint32_t CURRENT_INTERVAL_TIME = 1000;  // after this time we check the current 
 const uint32_t HYGROGEN_TIME         = 15000; //after this time we active the spark
-const uint32_t FIRE_TEMP_TIME        = 5000; //after this time we calculate the temperare of the flame
+const uint32_t FIRE_TEMP_TIME        = 5000; //after this time we calculate the temperature of the flame
 const uint32_t SESSION_TIME          = 60000;//time between spark and end of the session
 
 //////SPARK //////
