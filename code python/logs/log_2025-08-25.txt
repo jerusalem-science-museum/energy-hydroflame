@@ -550,3 +550,25 @@
 2026-06-07 15:17:59 - COM14 is not connected. Check your USB cable!
 2026-06-07 15:18:00 - Detected ports on this PC: ['COM1']
 2026-06-07 15:18:00 - COM14 is not connected. Check your USB cable!
+2026-06-07 15:18:01 - Detected ports on this PC: ['COM1']
+2026-06-07 15:18:01 - COM14 is not connected. Check your USB cable!
+2026-06-07 15:18:02 - Detected ports on this PC: ['COM1']
+2026-06-07 15:18:02 - COM14 is not connected. Check your USB cable!
+2026-06-07 15:18:03 - Detected ports on this PC: ['COM1']
+2026-06-07 15:18:03 - COM14 is not connected. Check your USB cable!
+2026-06-07 15:18:04 - Detected ports on this PC: ['COM1']
+2026-06-07 15:18:04 - COM14 is not connected. Check your USB cable!
+2026-06-07 15:18:05 - Detected ports on this PC: ['COM1']
+2026-06-07 15:18:05 - COM14 is not connected. Check your USB cable!
+2026-06-07 15:18:06 - Detected ports on this PC: ['COM1']
+2026-06-07 15:18:06 - COM14 is not connected. Check your USB cable!
+2026-06-07 15:18:07 - Detected ports on this PC: ['COM1']
+2026-06-07 15:18:07 - COM14 is not connected. Check your USB cable!
+2026-06-07 15:18:08 - Detected ports on this PC: ['COM1']
+2026-06-07 15:18:08 - COM14 is not connected. Check your USB cable!
+2026-06-07 15:18:09 - Detected ports on this PC: ['COM1']
+2026-06-07 15:18:09 - COM14 is not connected. Check your USB cable!
+2026-06-07 15:18:10 - Detected ports on this PC: ['COM1']
+2026-06-07 15:18:10 - COM14 is not connected. Check your USB cable!
+2026-06-07 15:18:11 - Detected ports on this PC: ['COM1']
+2026-06-07 15:18:11 - COM14 is not connected. Check your USB cable!
