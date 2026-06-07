@@ -37,33 +37,3 @@
 2025-08-25 19:21:26 - Arduino disconnected... Going to default settings
 2025-08-25 19:21:26 - Trying to reconnect to Arduino...
 2025-08-25 19:21:26 - Error: Arduino not found
-2026-06-07 15:19:43 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:43 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:44 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:44 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:45 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:45 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:46 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:46 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:47 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:47 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:48 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:48 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:49 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:49 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:50 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:50 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:51 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:51 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:52 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:52 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:53 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:53 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:54 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:54 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:55 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:55 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:56 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:56 - COM14 is not connected. Check your USB cable!
-2026-06-07 15:19:57 - Detected ports on this PC: ['COM1']
-2026-06-07 15:19:57 - COM14 is not connected. Check your USB cable!
